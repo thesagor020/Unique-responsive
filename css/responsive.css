@@ -1,0 +1,442 @@
+
+  
+ /* 
+    ##Device = Most of the Smartphones Mobiles (Portrait)
+    ##Screen = B/w 320px to 479px
+  */
+  
+  @media (min-width: 320px) and (max-width: 480px) {
+    header .navbar-light .navbar-nav .active > .nav-link{
+      width: 35%;
+    }
+    header .navbar-light .navbar-nav .nav-link:hover{
+     width: 35%;
+    }
+    header button {
+      margin-left: 40px;
+    }
+    header .menu-section .right-login .nav-link {
+      margin: 0px 2px;
+    }
+    header .menu-section .right-login .btn-info {
+      padding: 4px 15px;
+    }
+    .banner-section .banner-inner {
+      padding: 0px 0px 0px;
+      text-align: left !important;
+    }
+    .banner-section .banner-inner h1 {
+      font-size: 32px;
+      line-height: 44px;
+    }
+    .banner-section .banner-inner .btn-info {
+      padding: 6px 20px;
+      margin-top: 10px;
+    }
+    .banner-section {
+      width: 100%;
+      padding: 10px 0px 40px;
+    }
+    .highlight-section .absu {
+      display: none;
+    }
+    .highlight-section h2 {
+      font-size: 20px;
+    }
+    .feature {
+      padding: 30px 0px;
+    }
+    .feature-inner {
+      padding: 0px 0px 0px;
+    }
+    .feature-inner h1 {
+      font-size: 27px;
+      line-height: 35px;
+      margin-bottom: 18px;
+    }
+    .feature-inner {
+      background: none;
+    }
+    .feature-inner p {
+      margin-bottom: 10px;
+    }
+    .feature-inner h4 strong {
+      font-size: 56px;
+    }
+    .qoute-section {
+      padding: 0px;
+    }
+    .qoute-inner {
+        padding: 64px 0px 13px 20px;
+    }
+    .qoute-inner p {
+        font-size: 14px;
+        padding-top: 62px;
+    }
+    .qoute-inner h4 {
+        font-size: 14px;
+        padding-bottom: 101px;
+        padding-left: 27px;
+        font-weight: 400;
+    }
+    .qoute-design {
+      padding: 0px;
+    }
+    .qoute-design h1 {
+      font-size: 27px;
+      margin-bottom: 30px;
+      line-height: 37px;
+    }
+    .efficient {
+      padding: 20px 0px 20px;
+    }
+    .efficient .inner-effi h1 {
+      font-size: 30px;
+      line-height: 42px;
+      margin-bottom: 8px;
+    }
+    .efficient .inner-effi h6 {
+      font-size: 16px;
+      margin-bottom: 20px;
+    }
+    .efficient .inner-effi .btn-info {
+      padding: 8px 12px;
+      font-size: 15px;
+      letter-spacing: 1px;
+      margin-top: 5px;
+    }
+    .design-heading h2 {
+      font-size: 25px;
+      line-height: 40px;
+      margin-bottom: 10px;
+    }
+    .efficient .efficient-bg {
+      padding: 118px;
+    }
+    .design-heading p {
+      font-size: 15px;
+      margin-bottom: 10px;
+    }
+    .testmonial-heading h1 {
+      font-size: 28px;
+      line-height: 0px;
+      margin-bottom: 0px;
+    }
+    .test-inner {
+      padding: 0px 20px 5px;
+      margin-bottom: 28px;
+    }
+    .testmonial {
+      padding: 0px;
+    }
+    .footer-section .faq {
+        padding: 0px;
+    }
+    .footer-heading {
+        padding: 0px;
+    }
+    .footer-section {
+        padding: 20px 0px;
+    }
+    .footer-heading h1 {
+      font-size: 30px;
+      line-height: 40px;
+      margin-bottom: 0px;
+      padding-top: 20px;
+    }
+    .faq-inner {
+      padding: 10px 0px;
+    }
+    .footer-menu-one {
+      margin-top: 0px;
+      display: none;
+  }
+  .footer-menu-two {
+      margin-top: 18px;
+  }
+  .footer-menu-two h5 {
+      font-size: 11px;
+      font-weight: 700;
+  }
+
+  
+  
+
+
+    
+
+   
+
+    
+  } 
+  /* 
+    ##Device = Low Resolution Tablets, Mobiles (Landscape)
+    ##Screen = B/w 481px to 767px
+  */
+  
+  @media (min-width: 481px) and (max-width: 767px) {
+    header .navbar-light .navbar-nav .active > .nav-link {
+      width: 24%;
+    }
+    header .navbar-light .navbar-nav .nav-link:hover {
+        width: 24%;
+    }
+    header .menu-section .right-login .nav-link {
+        margin: 0px;
+    }
+    header .menu-section .right-login .btn-info {
+      margin-left: 60px;
+    }
+    .banner-section {
+      padding: 20px 0px 20px;
+    }
+    .banner-section .banner-inner {
+        padding:0px;
+    }
+    .banner-section .banner-inner h1 {
+        font-size: 34px;
+        line-height: 43px;
+        text-align: left;
+    }
+    .highlight-section .absu {
+        left: 7px;
+        bottom: 116px;
+    }
+    .feature {
+        padding: 0px;
+    }
+    .feature-inner {
+      padding: 20px 0px 20px;
+    }
+    .feature-inner h1 {
+      font-size: 32px;
+      line-height: 40px;
+      margin-bottom: 10px;
+    }
+    .feature-inner p {
+      font-size: 19px;
+      line-height: 24px;
+    }
+    .qoute-inner {
+      padding: 100px 100px;
+    }
+    .qoute-section {
+      padding: 40px 0px;
+    }
+    .qoute-design {
+      padding: 0px 0px;
+    }
+    .qoute-design h1 {
+      font-size: 32px;
+      margin-bottom: 30px;
+    }
+    .efficient {
+      padding: 20px 0px 25px;
+    }
+    .efficient .inner-effi h1 {
+      font-size: 36px;
+      line-height: 42px;
+      margin-bottom: 20px;
+    }
+    .efficient .inner-effi .btn-info {
+      padding: 8px 35px;
+      margin-top: 10px;
+    }
+    .design-heading h2 {
+      font-size: 32px;
+      line-height: 42px;
+      margin-bottom: 12px;
+    }
+    .design-inner {
+      padding: 0px 0px;
+    }
+    .testmonial {
+      padding: 0px;
+    }
+    .testmonial-heading h1 {
+      font-size: 32px;
+      line-height: 32px;
+      margin-bottom: 0px;
+    }
+    .test-inner {
+      padding: 0px 5px 2px;
+    }
+    .test-inner .text-inner {
+      padding: 1px 0px;
+    }
+    .footer-heading {
+      padding: 0px;
+    }
+    .footer-heading h1 {
+      font-size: 32px;
+      line-height: 42px;
+      margin-bottom: 1px;
+    }
+    .faq-inner {
+      padding: 10px 0px;
+    }
+    .footer-section {
+      padding: 15px 0px;
+    }
+    .footer-menu-one {
+      margin-top: 0px;
+    }
+      .footer-menu-two {
+        margin-top: 0px;
+    }
+
+
+
+
+      
+  }
+    /* 
+
+    ##Device = Tablets, Ipads (portrait)
+    ##Screen = B/w 768px to 1024px
+    
+    */
+  
+  @media (min-width: 768px) and (max-width: 1024px) {
+    
+    header .navbar-light .navbar-nav .active > .nav-link {
+      width: 15%;
+    }
+    header .navbar-light .navbar-nav .nav-link:hover {
+        width: 15%;
+    }
+    header .menu-section .right-login .nav-link {
+        margin: 0px;
+    }
+    header .menu-section .right-login .btn-info {
+      margin-left: 60px;
+   }
+    .banner-section .banner-inner {
+        width: 100%;
+        padding: 9px 0px 46px;
+    }
+    .banner-section .banner-inner h1 {
+        font-size: 36px;
+        line-height: 46px;
+    }
+    .highlight-section .absu {
+      left: 0px;
+      bottom: 70px;
+      }
+      .feature-inner {
+        padding: 0px 0px 100px;
+      }
+    .feature {
+        width: 100%;
+        padding: 50px 0px;
+    }
+    .feature-inner h1 {
+        font-size: 38px;
+        line-height: 48px;
+    }
+    .feature-inner h4 strong {
+        font-size: 100px;
+    }
+    .qoute-section {
+        padding: 0px 0px;
+    }
+    .qoute-inner {
+      padding: 180px 20px;
+    }
+    .qoute-inner p {
+        font-size: 15px;
+        padding: 20px 25px;
+    }
+    .qoute-inner h4 {
+        font-size: 11px;
+        font-weight: 400;
+    }
+    .qoute-design {
+      padding: 100px 25px;
+    }
+    .qoute-design h1 {
+        font-size: 29px;
+        margin-bottom: 15px;
+    }
+    .efficient {
+      padding: 0px 0px 35px;
+    }
+    .efficient .inner-effi h1 {
+        font-size: 32px;
+        line-height: 40px;
+        margin-bottom: 14px;
+    }
+    .efficient .inner-effi p {
+        font-size: 17px;
+        margin-bottom: 25px;
+    }
+    .efficient .efficient-bg {
+        padding: 162px 0px 105px;
+    }
+    .efficient .inner-effi .btn-info {
+        padding: 12px 22px;
+        font-size: 15px;
+        letter-spacing: 0px;
+        margin-top: 10px;
+    }
+    .design-heading h2 {
+      font-size: 33px;
+      line-height: 43px;
+      margin-bottom: 15px;
+    }
+    .design-inner h2 {
+      font-size: 27px;
+      font-weight: 400;
+    }
+    .design-inner p {
+      font-size: 16px;
+    }
+    .testmonial {
+      padding: 20px 0px;
+    }
+    .testmonial-heading {
+      padding: 20px 0px 25px;
+    }
+    .test-inner {
+      padding: 0px 0px 5px;
+    }
+    .test-inner .text-inner {
+      padding: 5px 0px;
+    }
+    .test-inner .client-inner {
+      padding: 10px 0px 0px;
+    }
+    .footer-section {
+      padding: 30px 0px;
+    }
+    .footer-heading h1 {
+      font-size: 28px;
+      line-height: 40px;
+      margin-bottom: 0px;
+  }
+    .footer-section .faq {
+        padding: 20px;
+    }
+    .footer-heading {
+        padding: 0px;
+    }
+    .footer-menu-one {
+      margin-top: 60px;
+    }
+    .footer-menu-two {
+      margin-top: 60px;
+    }
+    .footer-menu-one ul li {
+      padding: 0px 6px;
+    }
+    .footer-menu-one ul li:first-child {
+      padding: 0px;
+    }
+    .footer-menu-two h5 {
+      font-size: 13px;
+      font-weight: 700;
+    }
+    
+}
+
+ 
